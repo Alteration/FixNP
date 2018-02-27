@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Repair Novel Pages (Button)
-// @namespace    http://tampermonkey.net/
+// @namespace    AlteredCreations
 // @version      0.2
 // @description  Removes Unicode characters and TLN's with
 // @author       Alteration
